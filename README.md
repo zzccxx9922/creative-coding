@@ -10,13 +10,13 @@ Created by **Chenxu Zhao** as a creative coding coursework project, it explores 
 - [Visual Preview](#visual-preview)
 - [Technologies and Requirements](#technologies-and-requirements)
 - [Setup](#setup)
+- [Run the Sketch](#run-the-sketch)
 - [Usage](#usage)
 - [How It Works](#how-it-works)
-- [Troubleshooting](#troubleshooting)
 - [Project Status](#project-status)
 - [Room for Improvement](#room-for-improvement)
-- [Acknowledgements and Credits](#acknowledgements-and-credits)
-
+- [Acknowledgements](#acknowledgements)
+- [Contact](#contact)
 - ## Features
 
 - A 1000 x 700 canvas with 60 randomly generated starting stars.
